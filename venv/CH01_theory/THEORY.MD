@@ -64,6 +64,10 @@
             
         ==> HTTP/1.1 200 OK
             money=15000
+            
+        ✔ Web Socket
+        HTTP : 핑 퐁 --> 항상 request, response는 짝을 이룬다
+        Socket : 자유롭다 ( 채팅같은 것 )
                                  
     - 브라우저
     - 웹앱과 api
