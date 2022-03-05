@@ -1,0 +1,12 @@
+<!--메타데이터-->
+<!--encoding 자주 쓰이는 것 : ISO/IEC 8859-1, EUC-KR, cp949, UNICODE, UTF-8-->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<note>
+    <!-- 노드라고 부른다, 주의할 점 노드는 1개라고 할 수 있다. note라는 노드 1개로 접을 수 있음.  -->
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <body>Don`t forget me this weekend!</body>
+</note>
+
